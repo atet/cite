@@ -124,6 +124,8 @@ Boston University's Questrom School of Business permits AI-generated content to 
 
 ## 6. Business
 
+* [20240123 - Identifying Additional Business Stakeholders Beyond the Typical Five](./.dat/business/20240123_Identifying_Additional_Business_Stakeholders_Beyond_the_Typical_Five.md)
+
 [Back to Top](#table-of-contents)
 
 ----------------------------------------------------------------------------
