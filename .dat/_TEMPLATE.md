@@ -4,9 +4,11 @@
 
 # TITLE
 
-**Reference Format**: REFERENCE
+**Reference Format**:
+* REFERENCE
 
-**Citation Format**: CITATION
+**Citation Format**:
+* CITATION
 
 ----------------------------------------------------------------------------
 
