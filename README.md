@@ -130,6 +130,7 @@ Boston University's Questrom School of Business permits AI-generated content to 
 
 ## 7. Quotes
 
+<a href="#chadwick-boseman-purpose-crosses-disciplines"></a>
 > [![.img/quote.png](.img/quote.png)](#nolink) When you are deciding on next steps, next jobs, next careers, further education, you should find purpose rather than a job or a career. **Purpose crosses disciplines**. Purpose is an essential element of you. It is the reason you are on the planet at this particular time in history. Your very existence is wrapped up in the things you need to fulfill.
 >
 > — Chadwick Boseman —
