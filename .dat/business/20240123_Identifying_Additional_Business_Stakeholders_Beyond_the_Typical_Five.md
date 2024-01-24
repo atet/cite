@@ -4,9 +4,9 @@
 
 # Identifying Additional Business Stakeholders Beyond the Typical Five
 
-Reference Format: Claude, Anthropic, January 23, 2024, https://github.com/atet/cite/blob/main/.dat/business/20240123_Identifying_Additional_Business_Stakeholders_Beyond_the_Typical_Five.md.
+**Reference Format**: Claude, Anthropic, January 23, 2024, https://github.com/atet/cite/blob/main/.dat/business/20240123_Identifying_Additional_Business_Stakeholders_Beyond_the_Typical_Five.md.
 
-Citation Format: (Claude, January 23, 2024)
+**Citation Format**: (Claude, January 23, 2024)
 
 ----------------------------------------------------------------------------
 
