@@ -34,7 +34,7 @@ This repository will use the Chicago Manual of Style's Author-Date System[<sup>1
 
 **Journal Article**
 * **Reference Format**:
-    * Keng, Shao-Hsun, Chun-Hung Lin, and Peter F. Orazem. 2017. “Expanding College Access in Taiwan, 1978–2014: Effects on Graduate Quality and Income Inequality.” *Journal of Human Capital* 11, no. 1 (Spring): 1–34. https://doi.org/10.1086/690235.
+    * Keng, Shao-Hsun, Chun-Hung Lin, and Peter F. Orazem. 2017. “Expanding College Access in Taiwan, 1978–2014: Effects on Graduate Quality and Income Inequality.” *Journal of Human Capital* 11, no. 1 (Spring): 1–34. `https://doi.org/10.1086/690235`.
 * **Citation Format**:
     * (Keng, Lin, and Orazem 2017, 9–10)
 * **Caveat**: If there are more than four authors (typical of academic journals), use *et al.*
@@ -42,14 +42,14 @@ This repository will use the Chicago Manual of Style's Author-Date System[<sup>1
 
 **Newspapers and Magazines**
 * **Reference Format**:
-    * Manjoo, Farhad. 2017. “Snap Makes a Bet on the Cultural Supremacy of the Camera.” *New York Times*, March 8, 2017. https://www.nytimes.com/2017/03/08/technology/snap-makes-a-bet-on-the-cultural-supremacy-of-the-camera.html.
+    * Manjoo, Farhad. 2017. “Snap Makes a Bet on the Cultural Supremacy of the Camera.” *New York Times*, March 8, 2017. `https://www.nytimes.com/2017/03/08/technology/snap-makes-a-bet-on-the-cultural-supremacy-of-the-camera.html`.
 * **Citation Format**:
     * (Manjoo 2017)
 * **Caveat**: Page numbers are omitted in the reference but can be in the citation
 
 **Website Content**
 * **Reference Format**:
-    * Bouman, Katie. 2016. “How to Take a Picture of a Black Hole.” Filmed November 2016 at TEDxBeaconStreet, Brookline, MA. Video, 12:51. https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like.
+    * Bouman, Katie. 2016. “How to Take a Picture of a Black Hole.” Filmed November 2016 at TEDxBeaconStreet, Brookline, MA. Video, 12:51. `https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like`.
 * **Citation Format**:
     * (Bouman 2016)
 
@@ -61,7 +61,7 @@ There are multiple scenarios with differing guidance for reference and citation 
 
 **Publicly Available AI Content**
 * **Reference Format**:
-    * Claude, Anthropic, January 23, 2024, https://github.com/atet/cite/blob/main/.dat/business/20240123_Identifying_Additional_Business_Stakeholders_Beyond_the_Typical_Five.md.
+    * Claude, Anthropic, January 23, 2024, `https://github.com/atet/cite/blob/main/.dat/business/20240123_Identifying_Additional_Business_Stakeholders_Beyond_the_Typical_Five.md`.
 * **Citation Format**:
     * (Claude, January 23, 2024)
 
