@@ -184,6 +184,16 @@ Though not required by Questrom, reasonable due diligence will be performed to e
 >
 > — Chadwick Boseman —
 
+</br>
+
+<div id="chadwick-boseman-purpose-crosses-disciplines"></div>
+
+> [![.img/quote.png](.img/quote.png)](#nolink) So I think we can rethink the role of leaders at all levels. So we got to get over this idea of the leader as this all powerful CEO, it's not. In fact, great CEOs are much more into empowerment. So I think what we need to do is rethink leadership at all levels and teach people how to lead at all levels. **And then at an MBA level, how do I become a leader of leaders**, not managing leaders, not controlling managers. But how do I learn to become a leader of leaders?
+>
+> — Bill George —
+>
+> Bill George (Senior Fellow, Harvard Business School), interviewed by Venkat Venkatraman, August 18, 2020.
+
 [Back to Top](#table-of-contents)
 
 ----------------------------------------------------------------------------
