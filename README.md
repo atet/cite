@@ -184,7 +184,7 @@ Though not required by Questrom, reasonable due diligence will be performed to e
 >
 > — Chadwick Boseman —
 >
-> ###### Quote by [Chadwick Boseman](https://en.wikipedia.org/wiki/Chadwick_Boseman), accomplished actor and Howard University alumnus, at [Howard University's 150th Commencement Ceremony on May 12, 2018](https://youtu.be/RIHZypMyQ2s?t=1891).
+> ###### Quote by [Chadwick Boseman](https://en.wikipedia.org/wiki/Chadwick_Boseman), accomplished actor and Howard University alumnus, at [Howard University's 150<sup>th</sup> Commencement Ceremony on May 12, 2018](https://youtu.be/RIHZypMyQ2s?t=1891).
 
 </br>
 
