@@ -180,19 +180,31 @@ Though not required by Questrom, reasonable due diligence will be performed to e
 
 <div id="chadwick-boseman-purpose-crosses-disciplines"></div>
 
-> [![.img/quote.png](.img/quote.png)](#nolink) When you are deciding on next steps, next jobs, next careers, further education, you should find purpose rather than a job or a career. **Purpose crosses disciplines**. Purpose is an essential element of you. It is the reason you are on the planet at this particular time in history. Your very existence is wrapped up in the things you need to fulfill.
+> [![.img/quote_left.png](.img/quote_left.png)](#nolink) *Graduating class, hear me well on this day, this day when you have reached the hilltop and you are deciding on next jobs, next steps, careers, further education – you would rather find purpose than a job or a career. **Purpose crosses disciplines**. Purpose is an essential element of you. It is the reason you are on the planet at this particular time in history. Your very existence is wrapped up in the things you are here to fulfill.* [![.img/quote_right.png](.img/quote_right.png)](#nolink)
 >
 > — Chadwick Boseman —
+>
+> ###### Quote by [Chadwick Boseman](https://en.wikipedia.org/wiki/Chadwick_Boseman), accomplished actor and Howard University alumnus, at [Howard University's 150th Commencement Ceremony on May 12, 2018](https://youtu.be/RIHZypMyQ2s?t=1891).
 
 </br>
 
-<div id="chadwick-boseman-purpose-crosses-disciplines"></div>
+<div id="bill-george-purpose-of-mba"></div>
 
-> [![.img/quote.png](.img/quote.png)](#nolink) So I think we can rethink the role of leaders at all levels. So we got to get over this idea of the leader as this all powerful CEO, it's not. In fact, great CEOs are much more into empowerment. So I think what we need to do is rethink leadership at all levels and teach people how to lead at all levels. **And then at an MBA level, how do I become a leader of leaders**, not managing leaders, not controlling managers. But how do I learn to become a leader of leaders?
+> [![.img/quote_left.png](.img/quote_left.png)](#nolink) *So I think we can rethink the role of leaders at all levels. So we got to get over this idea of the leader as this all powerful CEO, it's not. In fact, great CEOs are much more into empowerment. So I think what we need to do is rethink leadership at all levels and teach people how to lead at all levels. **And then at an MBA level, how do I become a leader of leaders**, not managing leaders, not controlling managers. But how do I learn to become a leader of leaders?* [![.img/quote_right.png](.img/quote_right.png)](#nolink)
 >
 > — Bill George —
 >
-> Bill George (Senior Fellow, Harvard Business School), interviewed by Venkat Venkatraman, August 18, 2020.
+> ###### Unpublished quote from [Bill George](https://en.wikipedia.org/wiki/Bill_George_(businessman)), a Senior Fellow at Harvard Business School and former CEO of Medtronic, being interviewed by Venkat Venkatraman, professor at Questrom School of Business, Boston University, on August 18, 2020.
+
+</br>
+
+<div id="david-allen-anything-not-everything"></div>
+
+> [![.img/quote_left.png](.img/quote_left.png)](#nolink) *You can do anything – **but not everything**.* [![.img/quote_right.png](.img/quote_right.png)](#nolink)
+>
+> — David Allen —
+>
+> ###### Quote by [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author)), a productivity consultant best know for his time management method, "Getting Things Done," from an [interview by Fast Company on April 30, 2000](https://web.archive.org/web/20120808105202/https:/www.fastcompany.com/40384/you-can-do-anything-not-everything).
 
 [Back to Top](#table-of-contents)
 
