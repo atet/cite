@@ -30,7 +30,7 @@ This is my personal repository of useful information from around the world.
 
 ### References and Citations
 
-This repository will use the Chicago Manual of Style (CMOS)[<sup>1</sup>](#other-resources) Notes and Bibliography System (NB)[<sup>2</sup>](#other-resources).
+This repository will use the **Chicago Manual of Style** (CMOS)[<sup>1</sup>](#other-resources) **Notes and Bibliography System** (NB)[<sup>2</sup>](#other-resources).
 
 As an example, a document or presentation (now refered to as a work) will utilize the CMOS NB system by marking citations with a superscript number (e.g., <sup>"123"</sup>) that corresponds to a note (i.e., a full citation) detailed in the footnotes or bottom of a work. Additionally a bibliography page or slide must conclude the work. 
 
@@ -108,9 +108,7 @@ There are multiple scenarios with differing guidance for reference and citation 
 
 ### Boston University Academic Conduct Code
 
-Boston University's Questrom School of Business permits AI-generated content to be used as a source of information with proper acknowledgement. **This repository will serve as a public reference for all AI-generated content cited by Athit Kao**.
-
-Though not required by Questrom, reasonable due diligence will be performed to ensure that content in this repository is logical and factually correct before being used as a source. All information is provided according to the following <a href="http://www.athitkao.com/tos.html" target="_blank">Terms and Conditions</a>.</p>
+Boston University's Questrom School of Business permits AI-generated content to be used as a source of information with proper acknowledgement (Figure 1). **This repository will serve as a public reference for all AI-generated content cited by Athit Kao**.
 
 ##### **Figure 1. Excerpts from Boston University's Academic Conduct Code specifically referencing the use of AI-generated information[<sup>4</sup>](#other-resources)**.
 
@@ -133,6 +131,20 @@ Though not required by Questrom, reasonable due diligence will be performed to e
 > *“Another” may refer to **anything that can be a source of information** or work product, including (but not limited to) individuals, books, online sources, academic journals, and **software/programs (e.g., artificial intelligence software/programs)**.
 >
 > . . .
+
+</br>
+
+Additionally, the official perspective of Boston University on this subject confirms that LLMs are permitted as a source of information that can be used on student assignments:
+
+> [![.img/quote_left.png](.img/quote_left.png)](#nolink) *Using ChatGPT as a **means of research to find some preliminary information (like a Google search) is okay**. However, we do not want students taking content straight from ChatGPT and putting it in a paper as opposed to writing their own content.* [![.img/quote_right.png](.img/quote_right.png)](#nolink)
+>
+> — Boston University Learning Facilitator —
+>
+> ###### Unpublished quote from correspondence with a Boston University Learning Facilitator on January 25, 2024.
+
+</br>
+
+Though not required by Questrom, reasonable due diligence will be performed to ensure that content in this repository is logical and factually correct before being considered as a source. All information is provided here according to the following <a href="http://www.athitkao.com/tos.html" target="_blank">Terms and Conditions</a>.</p>
 
 [Back to Top](#table-of-contents)
 
