@@ -34,9 +34,9 @@ This repository will use the **Chicago Manual of Style** (CMOS)[<sup>1</sup>](#o
 
 As an example, a document or presentation (now refered to as a work) will utilize the CMOS NB system by marking citations with a superscript number (e.g., <sup>"123"</sup>) that corresponds to a note (i.e., a full citation) detailed in the footnotes or bottom section of a work.
 
-The superscript number must be immediately after the text in which the source was referenced or after the period if it concludes a sentence:
+The superscript number must be immediately after the text in which the source was referenced (after punctuation) or after the period if it concludes a sentence:
 
-> Current electric vehicle charging infrastructure will fully mature in less than five years according to Gartner.<sup>1</sup> Mercedes-Benz is contributing to this ecosystem by partnering with existing networks<sup>2</sup> as well as creating their own charging infrastructure.<sup>3</sup> Collectively, this collaborative momentum from automakers and supporting industries will realize Gartner's prediction in the near future.
+> Current electric vehicle charging infrastructure will fully mature in less than five years according to Gartner.<sup>1</sup> Mercedes-Benz is contributing to this ecosystem by partnering with existing networks,<sup>2</sup> as well as creating their own charging infrastructure.<sup>3</sup> John Doe mentions, "Collectively, this collaborative momentum from automakers and supporting industries will realize Gartner's prediction in the near future,"<sup>4</sup> and may position Mercedes-Benz well given its investments in this space.
 
 Lastly, a bibliography page or slide must conclude the work with a full citation. 
 
