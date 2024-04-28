@@ -30,20 +30,31 @@ This is my personal repository of useful information from around the world.
 
 ### References and Citations
 
-This repository will use the **Chicago Manual of Style** (CMOS)[<sup>1</sup>](#other-resources) **Notes and Bibliography System** (NB)[<sup>2</sup>](#other-resources).
+This repository will use the **Chicago Manual of Style** (CMOS)[<sup>1</sup>](#other-resources) **Notes and Bibliography System** (NB).[<sup>2</sup>](#other-resources)
 
-As an example, a document or presentation (now refered to as a work) will utilize the CMOS NB system by marking citations with a superscript number (e.g., <sup>"123"</sup>) that corresponds to a note (i.e., a full citation) detailed in the footnotes or bottom of a work. Additionally a bibliography page or slide must conclude the work. 
+As an example, a document or presentation (now refered to as a work) will utilize the CMOS NB system by marking citations with a superscript number (e.g., <sup>"123"</sup>) that corresponds to a note (i.e., a full citation) detailed in the footnotes or bottom section of a work.
+
+The superscript number must be immediately after the text in which the source was referenced or after the period if it concludes a sentence:
+
+> Current electric vehicle charging infrastructure will fully mature in less than five years according to Gartner.<sup>1</sup> Mercedes-Benz is contributing to this ecosystem by partnering with existing networks<sup>2</sup> as well as creating their own charging infrastructure.<sup>3</sup> Collectively, this collaborative momentum from automakers and supporting industries will realize Gartner's prediction in the near future.
+
+Lastly, a bibliography page or slide must conclude the work with a full citation. 
 
 The following are rules for **notes**:
-* Numbering of the citation superscripts are consecutive throughout the work and does not restart on the next page or slide.
+* Numbering of the citation superscripts are consecutive throughout the work and does not restart on the next page or slide
 * Each piece of information that is referenced must have a corresponding footnote, even if the same source is referenced multiple times nonconsecutively in the same page or slide
 * In the event of the same source being referenced multiple times in the same page or slide, the subsequent citation(s) could be shortened:
-    * First note: `32. William A. Sahlman, “How to Write a Great Business Plan,” Harvard Business Review 75,July–August 1997, 103.`
-    * Subsequent shortened note(s): `32. Sahlman, “Great Business Plan,” 103.`
+    * First note:
+    
+        `32. William A. Sahlman, “How to Write a Great Business Plan,” Harvard Business Review 75,July–August 1997, 103.`
+    
+    * Subsequent shortened note(s):
+    
+        `32. Sahlman, “Great Business Plan,” 103.`
 
 The following are rules for the **bibliography**:
 * Full notes are used with only a unique entry for each source
-* Entries are arranged alphabetically regardless of the order referenced in the work
+* Entries are arranged alphabetically regardless of the order of sources referenced in the preceding body of work
 * Formatting:
     * The title "Bibliography" should be centered at the top of only the first page or slide of the bibliography section, followed by two blank lines before the first entry
     * Page or slide numbering must continue consecutively on the top right corner of the page or slide
@@ -57,32 +68,32 @@ The following are rules for the **bibliography**:
 * **Note Format**:
     * `<NOTE NUMBER>. <FIRST NAME> <LAST NAME>, "<TITLE OF ARTICLE>," <NAME OF JOURNAL> <VOLUME>, no. <ISSUE> (<MONTH/SEASON YEAR>): <PAGE RANGE>. <DOI or URL>.`
     * **Example**:
-    * `1. Susan Satterfield, “Livy and the Pax Deum,” Classical Philology 111, no. 2 (April 2016): 170.`
+    * `1. Susan Satterfield, “Livy and the Pax Deum,” Classical Philology 111, no. 2 (April 2016): 170. https://doi.org/10.1086/686236.`
 * **Shortened Note Format**:
     * `<NOTE NUMBER>. <LAST NAME>, "<SHORTENED TITLE OF ARTICLE>," <PAGE RANGE>.`
     * **Example**:
     * `2. Satterfield, “Livy,” 172–73.`
 * **Bibliography Format**:
-    * `<LAST NAME> <FIRST NAME>, "<TITLE OF ARTICLE>," <NAME OF JOURNAL> <VOLUME>, no. <ISSUE> (<MONTH/SEASON YEAR>): <PAGE RANGE>. <DOI OR URL>.`
+    * `<LAST NAME>, <FIRST NAME>. "<TITLE OF ARTICLE>." <NAME OF JOURNAL> <VOLUME>, no. <ISSUE> (<MONTH/SEASON YEAR>): <PAGE RANGE>. <DOI OR URL>.`
     * **Example**:
-    * `Satterfield, Susan. “Livy and the Pax Deum.” Classical Philology 111, no. 2 (April 2016): 165–76.`
+    * `Satterfield, Susan. “Livy and the Pax Deum.” Classical Philology 111, no. 2 (April 2016): 165–76. https://doi.org/10.1086/686236.`
 * **Caveat**: If there are more than four authors (typical of academic journals), use *et al.* only in the notes and the full author list in the bibliography
     * `3. Rachel A. Bay et al., ...`
     * `4. Bay et al., ...`
 
 **Website Content (No Author)**
 * **Note Format**:
-    * `<NOTE NUMBER>. "<TITLE OF WORK>," <TITLE OF SECTION>, <COMPANY>, <DATE OF PUBLICATION, REVISION, OR ACCESS>.`
+    * `<NOTE NUMBER>. "<TITLE OF WORK>," <TITLE OF SECTION>, <COMPANY>, <DATE OF PUBLICATION, REVISION, OR ACCESS>. <URL>.`
     * **Example**:
-    * `1. “Privacy Policy,” Privacy & Terms, Google, last modified April 17, 2017, https://www.google.com/policies/privacy/.`
+    * `1. “Privacy Policy,” Privacy & Terms, Google, last modified April 17, 2017, https://www.google.com/policies/privacy.`
 * **Shortened Note Format**:
-    * `<COMPANY>, "<TITLE OF WORK>."`
+    * `<COMPANY>, "<SHORTENED TITLE OF WORK>."`
     * **Example**:
     * `2. Google, “Privacy Policy.”`
 * **Bibliography Format**:
-    * `<COMPANY>. "<TITLE OF WORK>," <TITLE OF SECTION>, <DATE OF PUBLICATION, REVISION, OR ACCESS>. <URL OR DOI>.`
+    * `<COMPANY>. "<TITLE OF WORK>." <TITLE OF SECTION>. <DATE OF PUBLICATION, REVISION, OR ACCESS>. <URL>.`
     * **Example**:
-    * `Google. “Privacy Policy.” Privacy & Terms. Last modified April 17, 2017. https://www.google.com/policies/privacy/.`
+    * `Google. “Privacy Policy.” Privacy & Terms. Last modified April 17, 2017. https://www.google.com/policies/privacy.`
 
 ### Artificial Intelligence Content
 
@@ -100,11 +111,11 @@ There are multiple scenarios with differing guidance for reference and citation 
     * **Example**:
     * `2. Claude, January 23, 2024`
 * **Bibliography Format†**:
-    * `<COMPANY>. Text generated by <LLM>, <DATE OF ACCESS>, <URL>.`
+    * `<COMPANY>. Text generated by <LLM>, <DATE OF ACCESS>. <URL>.`
     * **Example**:
-    * `Anthropic. Text generated by Claude, January 23, 2024, https://github.com/atet/cite/blob/main/.dat/business/20240123_Identifying_Additional_Business_Stakeholders_Beyond_the_Typical_Five.md`
+    * `Anthropic. Text generated by Claude, January 23, 2024. https://github.com/atet/cite/blob/main/.dat/business/20240123_Identifying_Additional_Business_Stakeholders_Beyond_the_Typical_Five.md`
 
-†Specific guidance was not given by CMOS for shortened note or bibliography formats
+†Specific guidance was not given by CMOS for shortened note or bibliography formats.
 
 ### Boston University Academic Conduct Code
 
