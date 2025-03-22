@@ -133,6 +133,8 @@ There are multiple scenarios with differing guidance for reference and citation 
 
 ### Boston University Academic Conduct Code
 
+**NOTE: As of 2024Q2, Boston University has revised its policy on the use of generative AI. It is likely that Boston University, as well as the rest of academia, will continually adapt to this new and rapidly-advancing technology with further policy updates into the future.**
+
 Boston University's Questrom School of Business permits AI-generated content to be used as a source of information with proper acknowledgement (Figure 1). **This repository will serve as a public reference for all AI-generated content cited by Athit Kao**.
 
 ##### **Figure 1. Excerpts from Boston University's Academic Conduct Code specifically referencing the use of AI-generated information.[<sup>4</sup>](#other-resources)**
@@ -214,6 +216,16 @@ Though not required by Questrom, reasonable due diligence will be performed to e
 ----------------------------------------------------------------------------
 
 ## 7. Quotes
+
+<div id="richard-baldwin-somebody-using-ai"></div>
+
+> [![.img/quote_left.png](.img/quote_left.png)](#nolink) *AI won't take your job. It's somebody using AI that will take your job.* [![.img/quote_right.png](.img/quote_right.png)](#nolink)
+>
+> — Richard Baldwin —
+>
+> ###### Quote by [Richard Baldwin](https://en.wikipedia.org/wiki/Richard_Baldwin_(economist)), professor of international economics, at the [2023 World Economic Forum's Growth Summit](https://www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5#:~:text=It's%20not%20AI%20that%20is%20going%20to,middle%20class%20and%20will%20affect%20every%20job.). Similar quotes may have been said and attributed to various people before 2023 and since.
+
+</br>
 
 <div id="chadwick-boseman-purpose-crosses-disciplines"></div>
 
