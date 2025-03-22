@@ -219,11 +219,11 @@ Though not required by Questrom, reasonable due diligence will be performed to e
 
 <div id="richard-baldwin-somebody-using-ai"></div>
 
-> [![.img/quote_left.png](.img/quote_left.png)](#nolink) *AI won't take your job. It's somebody using AI that will take your job.* [![.img/quote_right.png](.img/quote_right.png)](#nolink)
+> [![.img/quote_left.png](.img/quote_left.png)](#nolink) *AI won't take your job. It's **somebody using AI** that will take your job.* [![.img/quote_right.png](.img/quote_right.png)](#nolink)
 >
 > — Richard Baldwin —
 >
-> ###### Quote by [Richard Baldwin](https://en.wikipedia.org/wiki/Richard_Baldwin_(economist)), professor of international economics, at the [2023 World Economic Forum's Growth Summit](https://www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5#:~:text=It's%20not%20AI%20that%20is%20going%20to,middle%20class%20and%20will%20affect%20every%20job.). Similar quotes may have been said and attributed to various people before 2023 and since.
+> ###### Quote by [Richard Baldwin](https://en.wikipedia.org/wiki/Richard_Baldwin_(economist)), professor of international economics, at the [2023 World Economic Forum's Growth Summit](https://www.businessinsider.com/ai-wont-take-your-job-someone-who-uses-it-might-2023-5#:~:text=It's%20not%20AI%20that%20is%20going%20to,middle%20class%20and%20will%20affect%20every%20job.). Note that similar quotes may have been said and attributed to various people before 2023 and since.
 
 </br>
 
@@ -243,7 +243,7 @@ Though not required by Questrom, reasonable due diligence will be performed to e
 >
 > — Bill George —
 >
-> ###### Unpublished quote from [Bill George](https://en.wikipedia.org/wiki/Bill_George_(businessman)), a Senior Fellow at Harvard Business School and former CEO of Medtronic, being interviewed by Venkat Venkatraman, professor at Questrom School of Business, Boston University, on August 18, 2020.
+> ###### Unpublished quote from [Bill George](https://en.wikipedia.org/wiki/Bill_George_(businessman)), a Senior Fellow at Harvard Business School and former CEO of Medtronic, being interviewed by Venkat Venkatraman, professor at Questrom School of Business, Boston University, on August 18, 2020. Published here with permission from Bill George on January 28, 2024.
 
 </br>
 
